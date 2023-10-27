@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 ###### Sobre o Igor
-Desenvolvedor wed em formação com experiência em HTML, CSS e JavaScript
+Desenvolvedor wed em formação
 
 ### Detalhes
 
